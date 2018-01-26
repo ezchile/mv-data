@@ -1,5 +1,10 @@
 {
 	"intro": "Oui",
 	"message": "            Edit thdfgdfgdfgdfe form and notice how the values persist after you refresh!\n        ",
-	"intro-text": "This is a cool thing"
+	"intro-text": "This is a cool thing",
+	"hobby": [
+		"Eating",
+		"ddd",
+		"dddddd"
+	]
 }
