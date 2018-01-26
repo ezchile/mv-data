@@ -12,6 +12,9 @@
 			"dish-name": "thing",
 			"dish-desc": "yumm"
 		},
-		{}
+		{
+			"dish-name": "thing2",
+			"dish-desc": "Yumm2"
+		}
 	]
 }
