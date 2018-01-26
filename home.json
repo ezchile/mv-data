@@ -6,5 +6,12 @@
 		"Eating",
 		"ddd",
 		"dddddd"
+	],
+	"item": [
+		{
+			"dish-name": "thing",
+			"dish-desc": "yumm"
+		},
+		{}
 	]
 }
